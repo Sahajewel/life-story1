@@ -2,5 +2,9 @@ I born in 1990
 I love maa kali very much
 i have completed my bachelor
 i live in japan
+<<<<<<< HEAD
 i live in bd my country
 i had breakfast 
+=======
+i live in saitama
+>>>>>>> 3dc65bea2ec272216397975cb92cb92a1fa1a049
